@@ -1,6 +1,6 @@
 {
   "name": "@startertemp/nextjs-ts",
-  "version": "3.0.0-0",
+  "version": "3.0.0-1",
   "bin": "./bin/cli.js",
   "description": "A Starter Template for Next JS",
   "repository": {
