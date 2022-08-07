@@ -1,6 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/startertemp/nextjs-ts)](https://github.com/startertemp/nextjs-ts/issues)
 [![GitHub license](https://img.shields.io/github/license/startertemp/nextjs-ts)](https://github.com/startertemp/nextjs-ts/blob/master/LICENSE)
-![Discord](https://img.shields.io/discord/847154458395541525)
+![Discord](https://img.shields.io/discord/1004829842476376184)
 ![GitHub forks](https://img.shields.io/github/forks/startertemp/nextjs-ts?style=social)
 --
 ![Twitter Follow](https://img.shields.io/twitter/follow/yanukadeneth99?style=social)
