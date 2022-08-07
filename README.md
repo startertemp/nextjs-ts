@@ -1,7 +1,7 @@
-[![GitHub issues](https://img.shields.io/github/issues/yanukadeneth99/startertemp-nextjs)](https://github.com/yanukadeneth99/startertemp-nextjs/issues)
-[![GitHub license](https://img.shields.io/github/license/yanukadeneth99/startertemp-nextjs)](https://github.com/yanukadeneth99/startertemp-nextjs/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/startertemp/nextjs-ts)](https://github.com/startertemp/nextjs-ts/issues)
+[![GitHub license](https://img.shields.io/github/license/startertemp/nextjs-ts)](https://github.com/startertemp/nextjs-ts/blob/master/LICENSE)
 ![Discord](https://img.shields.io/discord/847154458395541525)
-![GitHub forks](https://img.shields.io/github/forks/yanukadeneth99/startertemp-nextjs?style=social)
+![GitHub forks](https://img.shields.io/github/forks/startertemp/nextjs-ts?style=social)
 --
 ![Twitter Follow](https://img.shields.io/twitter/follow/yanukadeneth99?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/yanukadeneth99?style=social)
@@ -43,4 +43,4 @@ npx @startertemp/nextjs-ts my-app
 
 ## Contribution
 
-Any type of contributions are welcome into [Github Repository.](https://github.com/yanukadeneth99/startertemp-nextjs)
+Any type of contributions are welcome into [Github Repository.](https://github.com/startertemp/nextjs-ts)
