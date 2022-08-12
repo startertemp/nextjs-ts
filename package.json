@@ -1,11 +1,11 @@
 {
   "name": "@startertemp/nextjs-ts",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "bin": "./bin/cli.js",
   "description": "A Starter Template for Next JS",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yanukadeneth99/startertemp-nextjs.git"
+    "url": "git+https://github.com/startertemp/nextjs-ts.git"
   },
   "keywords": [
     "template",
@@ -27,9 +27,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yanukadeneth99/startertemp-nextjs/issues"
+    "url": "https://github.com/startertemp/nextjs-ts/issues"
   },
-  "homepage": "https://github.com/yanukadeneth99/startertemp-nextjs#readme",
+  "homepage": "https://github.com/startertemp/nextjs-ts#readme",
   "dependencies": {},
   "devDependencies": {}
 }

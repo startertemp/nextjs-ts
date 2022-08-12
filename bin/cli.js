@@ -20,7 +20,7 @@ const runCommand = (command, error = true) => {
 };
 
 // Git Clone Link
-const gitCheckoutCommand = `git clone --dept 1 https://github.com/yanukadeneth99/startertemp-nextjs ${repoName}`;
+const gitCheckoutCommand = `git clone --dept 1 https://github.com/startertemp/nextjs-ts ${repoName}`;
 
 //* INSTALLATION PROCEDURE
 // Cloning Project
