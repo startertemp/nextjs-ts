@@ -20,6 +20,12 @@
     "web3modal",
     "startertemp"
   ],
+    "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "author": {
     "name": "Yanuka Deneth",
     "email": "yanuka@asciix.com",
